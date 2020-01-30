@@ -1,4 +1,4 @@
-Jenkins
+jenkinsContinuousDeploymentServer
 
 ___
 
